@@ -28,6 +28,8 @@ https://t.me/javalabra
 
 ## Uutisia
 
+**10.03.2017** Lista kurssilaisten repositorioista nähtävillä nyt [täällä](https://github.com/javaLabra/Javalabra2017-3/blob/master/projektit.md). Jos haluat vielä listalta pois, ota yhteyttä Valtteriin (tästä lähetetty jo mailia).
+
 **16.02.2017** **HUOM! Demotilaisuudet ovat ensi viikolla, ilmoittautuminen ja info pitäisi löytyä emailista! Jos maili on saanut saamatta, kyselkää perään!**
 
 **14.02.2017** **Päivän paja peruttu sairastumisen johdosta**
