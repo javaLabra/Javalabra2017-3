@@ -1,4 +1,4 @@
-﻿# Arvosteluperusteet
+# Arvosteluperusteet
 
 ### Aikataulun noudattaminen (12 pistettä)
 
